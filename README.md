@@ -19,12 +19,12 @@ I'm a passionate software developer and Nezent on GitHub, proficient in various 
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nezent&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-<!-- Projects -->
+<!-- Projects
 ## 🚀 Featured Projects
 
 1. [Project 1](#) - Brief description
 2. [Project 2](#) - Brief description
-3. [Project 3](#) - Brief description
+3. [Project 3](#) - Brief description -->
 
 <!-- Connect with Me -->
 <!-- ## 🌐 Connect with Me
