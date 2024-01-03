@@ -5,10 +5,10 @@
 I'm a passionate software developer and Nezent on GitHub, proficient in various technologies. My expertise includes HTML, CSS, PHP, Flutter, Python, Go, MySQL, PostgreSQL, and MongoDB.
 
 <!-- GitHub Stats -->
-![Sirajum Munir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nezent&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![Sirajum Munir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nezent&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
 <!-- Top Languages Used -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nezent&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nezent&layout=compact&theme=dark&hide_border=true)
 
 <!-- Skills -->
 ## 💼 Skills
@@ -17,7 +17,7 @@ I'm a passionate software developer and Nezent on GitHub, proficient in various 
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 <!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nezent&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nezent&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 <!-- Projects
 ## 🚀 Featured Projects
@@ -34,7 +34,7 @@ I'm a passionate software developer and Nezent on GitHub, proficient in various 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com) -->
 
 <!-- Footer -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=nezent.Nezent)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Nezent/Nezent)
 
 <!-- Feel free to customize and add more sections as per your preferences -->
 
