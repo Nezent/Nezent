@@ -13,7 +13,8 @@ I'm a passionate software developer and Nezent on GitHub, proficient in various 
 <!-- Skills -->
 ## 💼 Skills
 
-- **Languages:** HTML, CSS, PHP, Flutter, Python, Go
+- **Languages:** HTML, CSS, PHP, Flutter, Python, Go, C++
+- **Markup Languages:** HTML, CSS
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 <!-- GitHub Activity Graph -->
@@ -27,10 +28,10 @@ I'm a passionate software developer and Nezent on GitHub, proficient in various 
 3. [Project 3](#) - Brief description -->
 
 <!-- Connect with Me -->
-<!-- ## 🌐 Connect with Me
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smunir30/)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com) -->
 
 <!-- Footer -->
