@@ -13,7 +13,7 @@ I'm a passionate software developer and Nezent on GitHub, proficient in various 
 <!-- Skills -->
 ## 💼 Skills
 
-- **Languages:** HTML, CSS, PHP, Flutter, Python, Go, C++
+- **Languages:** PHP, Dart, Python, Go, C++
 - **Markup Languages:** HTML, CSS
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
