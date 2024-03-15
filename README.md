@@ -18,7 +18,7 @@ I'm a passionate software developer and Nezent on GitHub, proficient in various 
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 <!-- Total Contributions -->
-Total contributions: [![Nezent's Total Contributions](https://img.shields.io/github/contributions/Nezent)](https://github.com/Nezent)
+Total contributions: ![Nezent's Total Contributions](https://img.shields.io/github/contributions/Nezent)
 
 <!-- GitHub Activity Graph -->
 [![Nezent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nezent&theme=github-compact)](https://github.com/Nezent/github-readme-activity-graph)
