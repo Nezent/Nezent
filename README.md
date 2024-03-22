@@ -68,8 +68,9 @@
 <!-- Fun Facts -->
 ## 🎉 Fun Facts
 
-- I enjoy solving algorithmic challenges on platforms like LeetCode and CodeForces.
-- I'm a big fan of open-source contributions and have actively learning to make some contribution.
+- 🧠 I'm a puzzle-solver extraordinaire, conquering algorithmic challenges on platforms like ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) and ![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white).
+- 🌱 Passionate about open-source, I'm actively leveling up to make impactful contributions to the community.
+
 
 <!-- Connect with Me -->
 ## 🌐 Connect with Me
