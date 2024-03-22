@@ -2,7 +2,7 @@
 # 👋 Hi there, I'm Sirajum Munir - Nezent
 
 <!-- Introduction -->
-I'm a passionate software developer and Nezent on GitHub, proficient in various technologies. My expertise includes HTML, CSS, PHP, Flutter, Python, Go, MySQL, PostgreSQL, and MongoDB.
+🌟 As a passionate software craftsman, I go by the moniker Nezent on GitHub, weaving magic with code across diverse technologies. 💻 My skill set sparkles with proficiency in an array of languages and frameworks. From the elegance of HTML and CSS to the dynamic versatility of PHP, Flutter, and Python, I craft digital experiences that captivate and inspire. 🚀 With the agility of Go, I navigate complex challenges, while my expertise in databases including MySQL, PostgreSQL, and MongoDB ensures robust data handling. 🛠️ Let's collaborate and turn ideas into reality, one line of code at a time! ✨
 
 <!-- GitHub Stats -->
 ![Nezent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nezent&show_icons=true&hide_border=true&count_private=true&theme=dark)
@@ -13,9 +13,21 @@ I'm a passionate software developer and Nezent on GitHub, proficient in various 
 <!-- Skills -->
 ## 💼 Skills
 
-- **Languages:** PHP, Dart, Python, Go, C++
-- **Markup Languages:** HTML, CSS
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:**  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+- **Markup Languages:**  
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+- **Databases:**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!-- Total Contributions -->
 ## Total Contributions
@@ -42,9 +54,16 @@ I'm a passionate software developer and Nezent on GitHub, proficient in various 
 <!-- Technologies -->
 ## 🛠️ Technologies
 
-- **Frameworks:** Django, Flutter
-- **Version Control:** Git
-- **Tools:** VSCode, Docker
+- **Frameworks:**  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+- **Version Control:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- **Tools:**  
+  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- Fun Facts -->
 ## 🎉 Fun Facts
