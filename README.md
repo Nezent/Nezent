@@ -68,7 +68,7 @@
 <!-- Fun Facts -->
 ## 🎉 Fun Facts
 
-- 🧠 I'm a puzzle-solver extraordinaire, conquering algorithmic challenges on platforms like ***LeetCode*** and ***CodeForces***.
+- 🧠 I'm a puzzle-solver, conquering algorithmic challenges on platforms like ***LeetCode*** and ***CodeForces***.
 - 🌱 Passionate about open-source, I'm actively leveling up to make impactful contributions to the community.
 
 
