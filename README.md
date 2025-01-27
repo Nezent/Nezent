@@ -47,9 +47,10 @@
 3. [Portfolio Website](https://github.com/Nezent/portfolio-website) - My personal portfolio website showcasing my skills, projects, and achievements, built using HTML, CSS, and JavaScript. -->
 
 <!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 [![Nezent's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nezent&theme=dark&column=7&margin-w=10&margin-h=10&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <!-- Technologies -->
 ## 🛠️ Technologies
