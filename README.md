@@ -29,6 +29,15 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+- **Frameworks:**  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+- **Version Control:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- **Tools:**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 <!-- Total Contributions -->
 ## Total Contributions
 
@@ -51,20 +60,6 @@
 
 [![Nezent's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nezent&theme=dark&column=7&margin-w=10&margin-h=10&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-
-<!-- Technologies -->
-## 🛠️ Technologies
-
-- **Frameworks:**  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **Tools:**  
-  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- Fun Facts -->
 ## 🎉 Fun Facts
