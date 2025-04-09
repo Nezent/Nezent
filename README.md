@@ -35,7 +35,7 @@
 [![Nezent's Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nezent&theme=dark)](https://github.com/Nezent)
 
 <!-- GitHub Activity Graph -->
-[![Nezent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nezent&theme=github-compact)](https://github.com/Nezent/github-readme-activity-graph)
+<!-- [![Nezent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nezent&theme=github-compact)](https://github.com/Nezent/github-readme-activity-graph) -->
 
 <!-- Projects
 ## 🚀 Featured Projects
