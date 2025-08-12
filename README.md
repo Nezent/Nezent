@@ -39,9 +39,9 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- Total Contributions -->
-## Total Contributions
+<!-- ## Total Contributions
 
-[![Nezent's Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nezent&theme=dark)](https://github.com/Nezent)
+[![Nezent's Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nezent&theme=dark)](https://github.com/Nezent) -->
 
 <!-- GitHub Activity Graph -->
 <!-- [![Nezent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nezent&theme=github-compact)](https://github.com/Nezent/github-readme-activity-graph) -->
@@ -72,8 +72,8 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smunir30/)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com) -->
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter) -->
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nezent.github.io/portfolio)
 
 <!-- Footer -->
 ![](https://komarev.com/ghpvc/?username=Nezent&color=green)
