@@ -4,13 +4,6 @@
 <!-- Introduction -->
 🌟 As a passionate software craftsman, I go by the moniker Nezent on GitHub, weaving magic with code across diverse technologies. 💻 My skill set sparkles with proficiency in an array of languages and frameworks. From the elegance of HTML and CSS to the dynamic versatility of PHP, Flutter, and Python, I craft digital experiences that captivate and inspire. 🚀 With the agility of Go, I navigate complex challenges, while my expertise in databases including MySQL, PostgreSQL, and MongoDB ensures robust data handling. 🛠️ Let's collaborate and turn ideas into reality, one line of code at a time! ✨
 
-<!-- GitHub Stats -->
-![Nezent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nezent&show_icons=true&hide_border=false&count_private=true&theme=dark)
-
-<!-- Top Languages Used -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nezent&layout=compact&theme=dark&hide_border=false)
-
-
 <!-- Skills -->
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -44,8 +37,19 @@
     </tr>
   </table>
 </div>
-
+</div>
 <br>
+
+
+<!-- GitHub Stats -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nezent&show_icons=true&hide_border=false&count_private=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezent&layout=compact&theme=dark&hide_border=false" height="180" />
+</div>
+
+
+
+
 <!-- Total Contributions -->
 <!-- ## Total Contributions
 
@@ -79,9 +83,15 @@
 <!-- Connect with Me -->
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smunir30/)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter) -->
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nezent.github.io/portfolio)
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/smunir30/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://nezent.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
 
 <!-- Footer -->
 ![](https://komarev.com/ghpvc/?username=Nezent&color=green)
