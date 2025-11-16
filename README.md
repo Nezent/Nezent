@@ -5,39 +5,47 @@
 🌟 As a passionate software craftsman, I go by the moniker Nezent on GitHub, weaving magic with code across diverse technologies. 💻 My skill set sparkles with proficiency in an array of languages and frameworks. From the elegance of HTML and CSS to the dynamic versatility of PHP, Flutter, and Python, I craft digital experiences that captivate and inspire. 🚀 With the agility of Go, I navigate complex challenges, while my expertise in databases including MySQL, PostgreSQL, and MongoDB ensures robust data handling. 🛠️ Let's collaborate and turn ideas into reality, one line of code at a time! ✨
 
 <!-- GitHub Stats -->
-![Nezent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nezent&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![Nezent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nezent&show_icons=true&hide_border=false&count_private=true&theme=dark)
 
 <!-- Top Languages Used -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nezent&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nezent&layout=compact&theme=dark&hide_border=false)
+
 
 <!-- Skills -->
-## 💼 Skills
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-- **Languages:**  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<div align="center">
+<h2>Tech Stack & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
 
-- **Markup Languages:**  
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-Hover%20to%20see%20technologies%20I%20use-blue?style=for-the-badge" height="30" />
+</p>
+<!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,github,mongodb,mysql,nodejs,nextjs,php,py,react,tailwind,threejs,vite" alt="mongoDB" title="mongoDB"/>
+<img src="https://skillicons.dev/icons?i=github,selenium,gherkin,cypress,python,java,javascript,postman,vscode,git,idea,sentry,jenkins,npm,nodejs" alt="QA Tools" title="QA Tools"/>
+</div> -->
 
-- **Databases:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td width="100%">
+<!--         <h3>Web Development</h3> -->
+        <div align="center">
+          <a href="#"><img src="https://skillicons.dev/icons?i=flutter,mongodb,mysql,go,php,py,cpp,dart,postgresql" alt="Go" /></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+        <div align="center">
+          <a href="#"><img src="https://skillicons.dev/icons?i=postman,vscode,git,docker,nginx" /></a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- **Frameworks:**  
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **Tools:**  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+<br>
 <!-- Total Contributions -->
 <!-- ## Total Contributions
 
