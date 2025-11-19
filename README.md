@@ -24,7 +24,7 @@
       <td width="100%">
 <!--         <h3>Web Development</h3> -->
         <div align="center">
-          <a href="#"><img src="https://skillicons.dev/icons?i=flutter,mongodb,mysql,go,php,py,cpp,dart,postgresql" alt="Go" /></a>
+          <a href="#"><img src="https://skillicons.dev/icons?i=flutter,mongodb,mysql,go,php,py,cpp,dart,postgresql,html,css" alt="Go" /></a>
         </div>
       </td>
     </tr>
